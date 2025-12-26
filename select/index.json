@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "aiko-『ストロー』（from Live Blu-ray/DVD『My 2 Decades』)",
+  "base_artist": "aiko",
+  "createdAt": "2025-12-26T16:47:39.490676Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "aikoが歌うピクミン愛の歌",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/pl_01_aikoが歌うピクミン愛の歌_aiko.txt"
+    }
+  ]
+}
